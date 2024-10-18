@@ -37,7 +37,7 @@ try {
 
             // Executar a consulta
             if ($updateStmt->execute()) {
-                header("Location: listar_usuarios.php");
+                header("Location: pgconsultaALL.php");
                 exit();
             } else {
                 $mensagem = "Erro ao atualizar usuário.";
