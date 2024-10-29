@@ -1,0 +1,18 @@
+{
+  "name": "petshop",
+  "version": "1.0.0",
+  "description": "Venda de ração banho e tosa",
+  "main": "index.js",
+  "scripts": {
+    "test": "aecho\"Error:no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucasMMcode"
+  },
+  "keywords": [
+    "basic"
+  ],
+  "author": "Lucas Mittmann Magedanz",
+  "license": "MIT"
+}
